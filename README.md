@@ -24,7 +24,7 @@ The solution has 4 main functions:
 This function will get all drivers. It works by calling the [drivers](https://cartrack.notion.site/Drivers-4b7568a33f3c474c9395cd9b7c2100f3) endpoint. It will return a list of drivers. 
 
 #### CT_GetJobs:
-This function will get a list of Jobs based on an input dates. The function has two parameters:
+This function will get a list of Jobs based on input dates. The function has two parameters:
 - Created_From: This is the date that the order was create, and the filter will be applied on the API to filter only orders from the specified date. It is sent in the filter[ create_ts_from ] query parameter
 - Created_To: This is the date that the order was create, and the filter will be applied on the API to filter only orders to the specified date. It is sent in the filter[ create_ts_to ] query parameter.
 
@@ -41,7 +41,7 @@ This function will create a new Job. It has a type input parameter that will req
 
 ## Contributing
 
-For questions please ask the [Linx community](https://linx/software/community) or use the [Slack channel](https://linxsoftware.slack.com/archives/C01FLBC1XNX). 
+For questions please ask the [Linx community](https://linx/software/community). 
 
 ## License
 
