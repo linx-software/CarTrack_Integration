@@ -1,0 +1,36 @@
+{
+  "Id": "BCLe",
+  "Name": "CarTrackDelivery",
+  "Properties": [
+    {
+      "Id": "dFG3",
+      "Name": "schedule_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "fU0Y",
+      "Name": "reference_number",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5tyR",
+      "Name": "job_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "H5dj",
+      "Name": "items",
+      "Type": "List:Custom:KQ1p"
+    },
+    {
+      "Id": "0q9G",
+      "Name": "stops",
+      "Type": "List:Custom:5gVt"
+    },
+    {
+      "Id": "4ebw",
+      "Name": "labels",
+      "Type": "List:Compiled:String"
+    }
+  ]
+}

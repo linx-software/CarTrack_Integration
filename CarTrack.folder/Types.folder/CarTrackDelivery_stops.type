@@ -1,0 +1,66 @@
+{
+  "Id": "5gVt",
+  "Name": "CarTrackDelivery_stops",
+  "Properties": [
+    {
+      "Id": "qULP",
+      "Name": "stop_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "n2Wz",
+      "Name": "customer_name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Tctg",
+      "Name": "address_line_1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9J5H",
+      "Name": "address_line_2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "w3me",
+      "Name": "postal_code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VbAQ",
+      "Name": "contact_code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BFpx",
+      "Name": "contact_number",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LM4m",
+      "Name": "todos",
+      "Type": "List:Custom:DQEX"
+    },
+    {
+      "Id": "Spzf",
+      "Name": "asap_priority",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "c4NA",
+      "Name": "latitude",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6ydU",
+      "Name": "longitude",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "69Ha",
+      "Name": "country_id",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "Id": "gGPx",
+  "Name": "CarTrackJobs_data",
+  "Properties": [
+    {
+      "Id": "aCD1",
+      "Name": "job_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "JMq4",
+      "Name": "create_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "K8aN",
+      "Name": "update_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "67Tw",
+      "Name": "order_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7Nm4",
+      "Name": "scheduled_delivery_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6znk",
+      "Name": "delivery_driver_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bogT",
+      "Name": "assigned_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jNhQ",
+      "Name": "schedule_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "nRJL",
+      "Name": "user_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "ndPl",
+      "Name": "job_status_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "05pr",
+      "Name": "is_visible",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "pyxq",
+      "Name": "is_deleted",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "YCu2",
+      "Name": "reference_number",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NlLN",
+      "Name": "job_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "MtGM",
+      "Name": "job_group_order",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sZiy",
+      "Name": "jobgroup_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bAQo",
+      "Name": "is_planning",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "mb0z",
+      "Name": "subuser_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rX8e",
+      "Name": "allow_add_item",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "f1iz",
+      "Name": "notes",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Sduz",
+      "Name": "driver",
+      "Type": "Custom:bYbn"
+    },
+    {
+      "Id": "LVz7",
+      "Name": "labels",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "jyOw",
+      "Name": "stops",
+      "Type": "List:Custom:AYbl"
+    },
+    {
+      "Id": "Wn6v",
+      "Name": "items",
+      "Type": "List:Custom:oWDD"
+    }
+  ]
+}

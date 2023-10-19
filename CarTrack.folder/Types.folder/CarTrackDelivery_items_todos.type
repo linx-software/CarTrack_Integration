@@ -1,0 +1,21 @@
+{
+  "Id": "fB6d",
+  "Name": "CarTrackDelivery_items_todos",
+  "Properties": [
+    {
+      "Id": "LB96",
+      "Name": "todo_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "3elP",
+      "Name": "stop_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "SVyo",
+      "Name": "is_required",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

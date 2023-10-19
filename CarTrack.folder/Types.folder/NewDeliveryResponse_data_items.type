@@ -1,0 +1,91 @@
+{
+  "Id": "7qTg",
+  "Name": "NewDeliveryResponse_data_items",
+  "Properties": [
+    {
+      "Id": "QrVu",
+      "Name": "job_item_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "iB4s",
+      "Name": "create_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5ClC",
+      "Name": "update_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8TvI",
+      "Name": "job_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "qQSD",
+      "Name": "item_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "0Nw9",
+      "Name": "weight_measure_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "IzfX",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Rk8J",
+      "Name": "weight",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "lmHq",
+      "Name": "job_item_status_id_pickup",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "eUn8",
+      "Name": "job_item_status_id_dropoff",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "9nPH",
+      "Name": "quantity",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "A0wk",
+      "Name": "tracking_number",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4k0P",
+      "Name": "length",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wZmU",
+      "Name": "width",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WAZP",
+      "Name": "height",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JkZ0",
+      "Name": "job_item_status_id_single",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "kwv8",
+      "Name": "todos",
+      "Type": "List:Custom:JyA3"
+    }
+  ]
+}

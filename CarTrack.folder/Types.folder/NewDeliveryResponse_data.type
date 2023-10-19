@@ -1,0 +1,106 @@
+{
+  "Id": "2oFo",
+  "Name": "NewDeliveryResponse_data",
+  "Properties": [
+    {
+      "Id": "nw0g",
+      "Name": "job_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "nG1I",
+      "Name": "create_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Lc3V",
+      "Name": "update_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vHAv",
+      "Name": "order_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ym1x",
+      "Name": "scheduled_delivery_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RNda",
+      "Name": "delivery_driver_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rLFg",
+      "Name": "assigned_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RA2l",
+      "Name": "schedule_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "O3Mt",
+      "Name": "user_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Hi2l",
+      "Name": "job_status_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "1AGv",
+      "Name": "is_visible",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "C4qY",
+      "Name": "is_deleted",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "nneo",
+      "Name": "reference_number",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ozKW",
+      "Name": "job_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "qgZ3",
+      "Name": "job_group",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dDJn",
+      "Name": "job_group_order",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "s2m4",
+      "Name": "jobgroup_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SA1W",
+      "Name": "is_planning",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "kRfr",
+      "Name": "stops",
+      "Type": "List:Custom:HW77"
+    },
+    {
+      "Id": "3SGY",
+      "Name": "items",
+      "Type": "List:Custom:7qTg"
+    }
+  ]
+}

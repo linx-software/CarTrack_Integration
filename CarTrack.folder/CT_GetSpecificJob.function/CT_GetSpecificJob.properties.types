@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Yngh",
+      "Properties": [
+        {
+          "Id": "W17r",
+          "Name": "JobID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "rVMy",
+      "Properties": [
+        {
+          "Id": "4VXq",
+          "Name": "Job",
+          "Type": "Custom:ZIwo",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "mgfA",
+          "Name": "Success",
+          "Type": "Compiled:Boolean",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

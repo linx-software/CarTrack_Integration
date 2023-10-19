@@ -1,0 +1,49 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Generated:FhKF",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"Delivery\":{\"LinxExpression\":\"[PARSED]\"}, \"Success\":{\"LinxExpression\":\"[PARSED]\"}, \"Message\":{\"LinxExpression\":\"[PARSED]\"}}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "Delivery"
+            ],
+            "expression": {
+              "Expression": "NewDeliveryResponse",
+              "CompiledExpression": "={0}",
+              "Type": "Custom:ZIwo"
+            }
+          },
+          {
+            "typePath": [
+              "Success"
+            ],
+            "expression": {
+              "Expression": "Success",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:Boolean"
+            }
+          },
+          {
+            "typePath": [
+              "Message"
+            ],
+            "expression": {
+              "Expression": "Message",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "RuntimeCharacteristics": {
+    "IsTerminating": true,
+    "ExecutionPathExecution": "ZeroOrMore"
+  }
+}

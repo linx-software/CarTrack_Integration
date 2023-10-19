@@ -1,0 +1,101 @@
+{
+  "Id": "oWDD",
+  "Name": "CarTrackJobs_data_items",
+  "Properties": [
+    {
+      "Id": "WDLM",
+      "Name": "job_item_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "galF",
+      "Name": "create_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Vzew",
+      "Name": "update_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dbOA",
+      "Name": "job_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "N9qn",
+      "Name": "item_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "DWTz",
+      "Name": "weight_measure_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "i7tL",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tnTT",
+      "Name": "weight",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Uhpq",
+      "Name": "job_item_status_id_pickup",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Lhti",
+      "Name": "job_item_status_id_dropoff",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "MQXb",
+      "Name": "quantity",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "IqZR",
+      "Name": "tracking_number",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "GykD",
+      "Name": "length",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "46kQ",
+      "Name": "width",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IP75",
+      "Name": "height",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XIQi",
+      "Name": "job_item_status_id_single",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "P09a",
+      "Name": "sku",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "294M",
+      "Name": "upc",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fmpO",
+      "Name": "todos",
+      "Type": "List:Compiled:String"
+    }
+  ]
+}

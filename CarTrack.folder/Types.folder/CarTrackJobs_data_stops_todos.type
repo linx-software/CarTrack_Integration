@@ -1,0 +1,81 @@
+{
+  "Id": "xUUL",
+  "Name": "CarTrackJobs_data_stops_todos",
+  "Properties": [
+    {
+      "Id": "UlAm",
+      "Name": "stop_todo_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "jeKI",
+      "Name": "create_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "eqIM",
+      "Name": "update_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "eyHQ",
+      "Name": "stop_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Zz6U",
+      "Name": "todo_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "hdsE",
+      "Name": "todo_status_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4uwR",
+      "Name": "status_remarks",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mjhj",
+      "Name": "complete_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gbMs",
+      "Name": "is_required",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "23T7",
+      "Name": "ordering",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Ezh4",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dMAB",
+      "Name": "note",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OjyH",
+      "Name": "latitude",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "g0H9",
+      "Name": "longitude",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rWnI",
+      "Name": "images",
+      "Type": "List:Custom:4Dyv"
+    }
+  ]
+}

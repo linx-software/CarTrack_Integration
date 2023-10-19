@@ -1,0 +1,31 @@
+{
+  "Id": "KQ1p",
+  "Name": "CarTrackDelivery_items",
+  "Properties": [
+    {
+      "Id": "0PLT",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PjxP",
+      "Name": "weight",
+      "Type": "Compiled:Decimal"
+    },
+    {
+      "Id": "TrJM",
+      "Name": "weight_measure_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "EDT1",
+      "Name": "item_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "M9o2",
+      "Name": "todos",
+      "Type": "List:Custom:fB6d"
+    }
+  ]
+}

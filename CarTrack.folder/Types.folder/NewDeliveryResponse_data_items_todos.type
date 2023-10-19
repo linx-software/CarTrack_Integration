@@ -1,0 +1,86 @@
+{
+  "Id": "JyA3",
+  "Name": "NewDeliveryResponse_data_items_todos",
+  "Properties": [
+    {
+      "Id": "JDr0",
+      "Name": "job_item_todo_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "feJ1",
+      "Name": "create_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xVvL",
+      "Name": "update_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7xi7",
+      "Name": "job_item_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "exBm",
+      "Name": "todo_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "5J38",
+      "Name": "todo_status_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "oRzZ",
+      "Name": "status_remarks",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Xt8r",
+      "Name": "complete_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1fnH",
+      "Name": "is_required",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "9VRc",
+      "Name": "stop_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Yykz",
+      "Name": "tag",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6Ksp",
+      "Name": "ordering",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "tuRW",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Acmc",
+      "Name": "note",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Jws8",
+      "Name": "latitude",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mNYy",
+      "Name": "longitude",
+      "Type": "Compiled:String"
+    }
+  ]
+}

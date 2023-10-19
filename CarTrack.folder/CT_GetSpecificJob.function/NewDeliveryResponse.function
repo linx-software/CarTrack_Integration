@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:ZIwo",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:ZIwo",
+      "ValueUsage": "RuntimeRead",
+      "Value": "{\"data\":{\"job_id\":0}}",
+      "ValueType": "String"
+    }
+  ],
+  "Result": "Custom:ZIwo"
+}

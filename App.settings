@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "uzd2",
+    "Name": "CarTrackUser",
+    "Type": "Compiled:String",
+    "Value": ""
+  },
+  {
+    "Id": "3csa",
+    "Name": "CarTrackToken",
+    "Type": "Compiled:String",
+    "Value": ""
+  },
+  {
+    "Id": "zZiw",
+    "Name": "CarTrackBaseURL",
+    "Type": "Compiled:String",
+    "Value": "https://fleetapi-za.cartrack.com/rest"
+  }
+]

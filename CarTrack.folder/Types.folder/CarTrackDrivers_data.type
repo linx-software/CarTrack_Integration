@@ -1,0 +1,151 @@
+{
+  "Id": "LfCg",
+  "Name": "CarTrackDrivers_data",
+  "Properties": [
+    {
+      "Id": "80b2",
+      "Name": "delivery_driver_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "v5lK",
+      "Name": "create_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ISXb",
+      "Name": "update_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "l6In",
+      "Name": "first_name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yfhr",
+      "Name": "last_name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5kBc",
+      "Name": "phone_code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tyjO",
+      "Name": "phone_number",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WPaK",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wHTS",
+      "Name": "registration",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pLOE",
+      "Name": "driver_status_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "ad0Y",
+      "Name": "last_login_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hWks",
+      "Name": "is_online",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "j3IW",
+      "Name": "is_active",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ru3b",
+      "Name": "remember_token",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5eYn",
+      "Name": "login_type",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "5LMk",
+      "Name": "shift_time_start",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JA3E",
+      "Name": "shift_time_end",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uwnm",
+      "Name": "start_location_customer_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "E3I3",
+      "Name": "end_location_customer_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WyLa",
+      "Name": "is_planning",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "PtP3",
+      "Name": "fleet_driver_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "paHS",
+      "Name": "subuser_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "91ph",
+      "Name": "au_36username",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4O3w",
+      "Name": "au_36ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yCtU",
+      "Name": "au_36application",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8cLf",
+      "Name": "au_36counter",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "bcmL",
+      "Name": "chat_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OQsB",
+      "Name": "latitude",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "sBbH",
+      "Name": "longitude",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

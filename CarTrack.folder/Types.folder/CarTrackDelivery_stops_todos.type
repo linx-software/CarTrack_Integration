@@ -1,0 +1,16 @@
+{
+  "Id": "DQEX",
+  "Name": "CarTrackDelivery_stops_todos",
+  "Properties": [
+    {
+      "Id": "ir8Y",
+      "Name": "todo_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "8bwH",
+      "Name": "is_required",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

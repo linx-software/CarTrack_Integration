@@ -1,0 +1,36 @@
+{
+  "Id": "4Dyv",
+  "Name": "CarTrackJobs_data_stops_todos_images",
+  "Properties": [
+    {
+      "Id": "BCLE",
+      "Name": "image_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "JEf2",
+      "Name": "create_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "c872",
+      "Name": "customer_name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fNae",
+      "Name": "stop_todo_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "6p1k",
+      "Name": "ordering",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "G5aY",
+      "Name": "image_url",
+      "Type": "Compiled:String"
+    }
+  ]
+}

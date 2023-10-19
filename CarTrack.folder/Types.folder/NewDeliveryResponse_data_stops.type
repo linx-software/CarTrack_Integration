@@ -1,0 +1,171 @@
+{
+  "Id": "HW77",
+  "Name": "NewDeliveryResponse_data_stops",
+  "Properties": [
+    {
+      "Id": "jFsu",
+      "Name": "stop_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "TTww",
+      "Name": "create_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ovUt",
+      "Name": "update_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "POTa",
+      "Name": "job_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "q7q3",
+      "Name": "stop_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "EmKS",
+      "Name": "stop_status_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "KeXN",
+      "Name": "country_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "IPrs",
+      "Name": "customer_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "POoI",
+      "Name": "user_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "TXUn",
+      "Name": "ordering",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2AFV",
+      "Name": "scheduled_delivery_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZnJc",
+      "Name": "contact_number",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sc80",
+      "Name": "contact_code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cxwB",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZaE0",
+      "Name": "address_line_1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "aIuh",
+      "Name": "address_line_2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Z0TG",
+      "Name": "postal_code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yo9t",
+      "Name": "latitude",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9hhq",
+      "Name": "longitude",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WWkY",
+      "Name": "note",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pVJ5",
+      "Name": "asap_priority",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bMmp",
+      "Name": "status_remarks",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JbR6",
+      "Name": "todo_complete_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "v1yp",
+      "Name": "activity_started_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Nd0N",
+      "Name": "activity_arrived_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LCla",
+      "Name": "activity_completed_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Brvv",
+      "Name": "activity_rejected_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AopX",
+      "Name": "customer_name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vbBc",
+      "Name": "priority",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yfUr",
+      "Name": "duration",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AiGJ",
+      "Name": "leg_before_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FeEK",
+      "Name": "leg_after_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5fik",
+      "Name": "todos",
+      "Type": "List:Custom:1aBk"
+    }
+  ]
+}

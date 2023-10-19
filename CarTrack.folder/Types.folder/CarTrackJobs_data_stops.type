@@ -1,0 +1,166 @@
+{
+  "Id": "AYbl",
+  "Name": "CarTrackJobs_data_stops",
+  "Properties": [
+    {
+      "Id": "r24W",
+      "Name": "stop_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "3pKs",
+      "Name": "create_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Rabb",
+      "Name": "update_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Cgaa",
+      "Name": "job_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "uBTV",
+      "Name": "stop_type_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PsuX",
+      "Name": "stop_status_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OZW6",
+      "Name": "country_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Kfzp",
+      "Name": "customer_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bh3F",
+      "Name": "user_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "UJ1M",
+      "Name": "ordering",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dFvE",
+      "Name": "contact_number",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "G9z4",
+      "Name": "contact_code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6aGF",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WYSq",
+      "Name": "address_line_1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "erFt",
+      "Name": "address_line_2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZO1a",
+      "Name": "postal_code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6X02",
+      "Name": "latitude",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "4uIl",
+      "Name": "longitude",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "dVeK",
+      "Name": "note",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FAK7",
+      "Name": "status_remarks",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ycD9",
+      "Name": "todo_complete_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "etm7",
+      "Name": "activity_started_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NLh1",
+      "Name": "activity_arrived_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "D0EY",
+      "Name": "activity_completed_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FwuX",
+      "Name": "activity_rejected_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nYhM",
+      "Name": "customer_name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HMxU",
+      "Name": "priority",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4APk",
+      "Name": "duration",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fRqA",
+      "Name": "has_custom_priority",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "X3wA",
+      "Name": "subuser_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nDYR",
+      "Name": "todos",
+      "Type": "List:Custom:xUUL"
+    },
+    {
+      "Id": "CR2S",
+      "Name": "delivery_windows",
+      "Type": "List:Compiled:String"
+    }
+  ]
+}

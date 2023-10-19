@@ -1,0 +1,11 @@
+{
+  "Id": "PDGE",
+  "Name": "CarTrackJobs",
+  "Properties": [
+    {
+      "Id": "QtvJ",
+      "Name": "data",
+      "Type": "List:Custom:gGPx"
+    }
+  ]
+}

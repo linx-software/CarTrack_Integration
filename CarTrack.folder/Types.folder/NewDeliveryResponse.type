@@ -1,0 +1,11 @@
+{
+  "Id": "ZIwo",
+  "Name": "NewDeliveryResponse",
+  "Properties": [
+    {
+      "Id": "k0FS",
+      "Name": "data",
+      "Type": "Custom:2oFo"
+    }
+  ]
+}

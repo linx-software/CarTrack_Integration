@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:ZIwo",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallCreateJob.Success.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:ZIwo",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "NewDeliveryResponse",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:ZIwo"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Id": "1aBk",
+  "Name": "NewDeliveryResponse_data_stops_todos",
+  "Properties": [
+    {
+      "Id": "Ib9Q",
+      "Name": "stop_todo_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "rn2u",
+      "Name": "create_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "oeO4",
+      "Name": "update_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Nu1H",
+      "Name": "stop_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "rvLu",
+      "Name": "todo_type_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "F64j",
+      "Name": "todo_status_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9AjQ",
+      "Name": "status_remarks",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "x9rX",
+      "Name": "complete_ts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dleX",
+      "Name": "is_required",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "A60A",
+      "Name": "ordering",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "8srq",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8ksu",
+      "Name": "note",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "taYq",
+      "Name": "latitude",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CVfb",
+      "Name": "longitude",
+      "Type": "Compiled:String"
+    }
+  ]
+}

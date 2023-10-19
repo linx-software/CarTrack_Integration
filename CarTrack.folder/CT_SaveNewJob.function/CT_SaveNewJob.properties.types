@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "i6we",
+      "Properties": [
+        {
+          "Id": "V0mI",
+          "Name": "Delivery",
+          "Type": "Custom:BCLe",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "FhKF",
+      "Properties": [
+        {
+          "Id": "KNil",
+          "Name": "Delivery",
+          "Type": "Custom:ZIwo",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "hWQl",
+          "Name": "Success",
+          "Type": "Compiled:Boolean",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "4gTU",
+          "Name": "Message",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]
