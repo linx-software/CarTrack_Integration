@@ -6,6 +6,8 @@ This repo contains a Linx 6 solution that shows how you can consume the [Cartrac
 You can download this sample and manipulate it to suit your integration using [Linx 6](https://linx.software/).
 
 ## Installation
+You will need the Linx 6 Designer, get it [here](https://linx.software/linx-download/)
+
 The solution also makes use of two Settings that you will need to set: 
 
 - CarTrackBaseURL: Set the base URL for the Cartrack API, this is preconfigured 
